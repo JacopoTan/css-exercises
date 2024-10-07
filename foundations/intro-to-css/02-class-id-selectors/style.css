@@ -1,19 +1,18 @@
 .odd {
     background-color: #FF5B61;
-    font-family: Verdana, Geneva, Tahoma, sans-serif, 
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 .big-px {
     font-size: 24px
 }
 
-#2 {
+#second {
     color: #0000ff;
     font-size: 36px;
 }
 
-#4 {
-    color: #90ee90 ;
+#fourth {
+    background-color: #90ee90 ;
     font-weight: bold;
 }
