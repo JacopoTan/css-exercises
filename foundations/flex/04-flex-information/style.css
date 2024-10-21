@@ -15,12 +15,13 @@ img {
 .title-container {
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 .container {
   display: flex;
-  padding: 20px 80px;
-  gap: 30px;
+  padding: 0px 80px;
+  gap: 52px;
 }
 
 .container-barberry,
